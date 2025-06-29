@@ -35,7 +35,7 @@ Welcome to my GitHub! I’m a passionate **Data Science student** with a strong 
 
 ## 📈 GitHub Stats:
 
-![Kisalay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Kisalay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisalaypan001&show_icons=true&theme=radical)
 
 ---
 
