@@ -19,7 +19,7 @@ Welcome to my GitHub! I’m a passionate **Data Science student** with a strong 
 - **Programming Languages:** Python, Java, JavaScript  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Data Science & AI:** Machine Learning, Deep Learning, AI Algorithms  
-- **Game Development:** Android Game Development with Java  
+- **Game Development:** Android Game Development in Android studio and Unity
 - **Tools & Frameworks:** Scikit-Learn, TensorFlow, Keras, Android Studio, Git & GitHub  
 
 ---
