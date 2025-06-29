@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate **Data Science student** with a strong 
 ## 🛠️ Skills & Tools:
 
 - **Programming Languages:** Python, Java, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript  
+- **Web Development:** HTML, CSS, JavaScript, GenAI 
 - **Data Science & AI:** Machine Learning, Deep Learning, AI Algorithms  
 - **Game Development:** Android Game Development in Android studio and Unity
 - **Tools & Frameworks:** Scikit-Learn, TensorFlow, Keras, Android Studio, Git & GitHub  
