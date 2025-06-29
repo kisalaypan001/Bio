@@ -42,8 +42,8 @@ Welcome to my GitHub! I’m a passionate **Data Science student** with a strong 
 ## 📫 Let's Connect:
 
 - 📧 Email: [kisalay.pan003@gmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kisalay-pan/)
-- 🌐 Portfolio/Blog: [If you have one, add here]
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kisalay-pan/)
+- 🌐 Portfolio/Blog: [[Git Profile](https://github.com/kisalaypan001)]
 
 ---
 
