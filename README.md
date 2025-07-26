@@ -46,7 +46,3 @@ Welcome to my GitHub! I’m a passionate **Data Science student** with a strong 
 - 🌐 Portfolio/Blog: [[Git Profile](https://github.com/kisalaypan001)]
 
 ---
-
-Thanks for stopping by! 😊  
-*Keep Learning. Keep Building.*
-
